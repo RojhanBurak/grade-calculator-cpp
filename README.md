@@ -18,7 +18,8 @@ letter grade through a menu-driven interface.
 
 ## Technologies Used
 - C++
-- Standard Library (`iostream`)
+-  Standard Library (`iostream`, `cmath`)
+
 
 ## How It Works
 1. User selects an option from the menu
