@@ -41,7 +41,7 @@ int main()
             std::cout<< "Gecersiz giris"<<'\n';
             
         }
-    }while(choice !=4); 
+    }while(choice !=3); 
 
 
 
@@ -168,4 +168,5 @@ char harf_notu = harflegosterim(ortalama);
 
 
  return 0;}
+
 
